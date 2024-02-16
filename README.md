@@ -4,9 +4,9 @@ Este é um projeto pessoal que utiliza a API da Wikipedia para realizar pesquisa
 
 ## Como utilizar
 
-O projeto está hospedado na Vercel, [clique aqui acessar]{https://wiki-search-zeta.vercel.app}
+O projeto está hospedado na Vercel, [clique aqui acessar](https://wiki-search-zeta.vercel.app)
 
 
 ## Inspiração
 
-Esse projeto foi inspirado na série de vídeos de JavaScript do canal [ASMR Prog]{https://www.youtube.com/@AsmrProg} 
+Esse projeto foi inspirado na série de vídeos de JavaScript do canal [ASMR Prog](https://www.youtube.com/@AsmrProg) 
